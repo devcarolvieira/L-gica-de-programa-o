@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
 
-    // Escreva um programa em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
+    // 2. Escreva um programa em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 
     cadeia nome_do_usuario
 
